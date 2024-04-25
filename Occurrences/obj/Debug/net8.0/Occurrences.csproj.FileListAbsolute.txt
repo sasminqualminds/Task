@@ -1,0 +1,15 @@
+D:\Task\Occurrences\bin\Debug\net8.0\Occurrences.exe
+D:\Task\Occurrences\bin\Debug\net8.0\Occurrences.deps.json
+D:\Task\Occurrences\bin\Debug\net8.0\Occurrences.runtimeconfig.json
+D:\Task\Occurrences\bin\Debug\net8.0\Occurrences.dll
+D:\Task\Occurrences\bin\Debug\net8.0\Occurrences.pdb
+D:\Task\Occurrences\obj\Debug\net8.0\Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\Occurrences\obj\Debug\net8.0\Occurrences.AssemblyInfoInputs.cache
+D:\Task\Occurrences\obj\Debug\net8.0\Occurrences.AssemblyInfo.cs
+D:\Task\Occurrences\obj\Debug\net8.0\Occurrences.csproj.CoreCompileInputs.cache
+D:\Task\Occurrences\obj\Debug\net8.0\Occurrences.sourcelink.json
+D:\Task\Occurrences\obj\Debug\net8.0\Occurrences.dll
+D:\Task\Occurrences\obj\Debug\net8.0\refint\Occurrences.dll
+D:\Task\Occurrences\obj\Debug\net8.0\Occurrences.pdb
+D:\Task\Occurrences\obj\Debug\net8.0\Occurrences.genruntimeconfig.cache
+D:\Task\Occurrences\obj\Debug\net8.0\ref\Occurrences.dll

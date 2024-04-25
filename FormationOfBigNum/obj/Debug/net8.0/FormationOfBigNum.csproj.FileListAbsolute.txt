@@ -1,0 +1,15 @@
+D:\Task\FormationOfBigNum\bin\Debug\net8.0\FormationOfBigNum.exe
+D:\Task\FormationOfBigNum\bin\Debug\net8.0\FormationOfBigNum.deps.json
+D:\Task\FormationOfBigNum\bin\Debug\net8.0\FormationOfBigNum.runtimeconfig.json
+D:\Task\FormationOfBigNum\bin\Debug\net8.0\FormationOfBigNum.dll
+D:\Task\FormationOfBigNum\bin\Debug\net8.0\FormationOfBigNum.pdb
+D:\Task\FormationOfBigNum\obj\Debug\net8.0\FormationOfBigNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\FormationOfBigNum\obj\Debug\net8.0\FormationOfBigNum.AssemblyInfoInputs.cache
+D:\Task\FormationOfBigNum\obj\Debug\net8.0\FormationOfBigNum.AssemblyInfo.cs
+D:\Task\FormationOfBigNum\obj\Debug\net8.0\FormationOfBigNum.csproj.CoreCompileInputs.cache
+D:\Task\FormationOfBigNum\obj\Debug\net8.0\FormationOfBigNum.sourcelink.json
+D:\Task\FormationOfBigNum\obj\Debug\net8.0\FormationOfBigNum.dll
+D:\Task\FormationOfBigNum\obj\Debug\net8.0\refint\FormationOfBigNum.dll
+D:\Task\FormationOfBigNum\obj\Debug\net8.0\FormationOfBigNum.pdb
+D:\Task\FormationOfBigNum\obj\Debug\net8.0\FormationOfBigNum.genruntimeconfig.cache
+D:\Task\FormationOfBigNum\obj\Debug\net8.0\ref\FormationOfBigNum.dll

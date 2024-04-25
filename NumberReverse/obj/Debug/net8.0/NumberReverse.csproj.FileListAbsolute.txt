@@ -1,0 +1,15 @@
+D:\Task\NumberReverse\bin\Debug\net8.0\NumberReverse.exe
+D:\Task\NumberReverse\bin\Debug\net8.0\NumberReverse.deps.json
+D:\Task\NumberReverse\bin\Debug\net8.0\NumberReverse.runtimeconfig.json
+D:\Task\NumberReverse\bin\Debug\net8.0\NumberReverse.dll
+D:\Task\NumberReverse\bin\Debug\net8.0\NumberReverse.pdb
+D:\Task\NumberReverse\obj\Debug\net8.0\NumberReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\NumberReverse\obj\Debug\net8.0\NumberReverse.AssemblyInfoInputs.cache
+D:\Task\NumberReverse\obj\Debug\net8.0\NumberReverse.AssemblyInfo.cs
+D:\Task\NumberReverse\obj\Debug\net8.0\NumberReverse.csproj.CoreCompileInputs.cache
+D:\Task\NumberReverse\obj\Debug\net8.0\NumberReverse.sourcelink.json
+D:\Task\NumberReverse\obj\Debug\net8.0\NumberReverse.dll
+D:\Task\NumberReverse\obj\Debug\net8.0\refint\NumberReverse.dll
+D:\Task\NumberReverse\obj\Debug\net8.0\NumberReverse.pdb
+D:\Task\NumberReverse\obj\Debug\net8.0\NumberReverse.genruntimeconfig.cache
+D:\Task\NumberReverse\obj\Debug\net8.0\ref\NumberReverse.dll

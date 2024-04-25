@@ -1,0 +1,15 @@
+D:\Task\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.exe
+D:\Task\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.deps.json
+D:\Task\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.runtimeconfig.json
+D:\Task\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.dll
+D:\Task\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.pdb
+D:\Task\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.AssemblyInfoInputs.cache
+D:\Task\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.AssemblyInfo.cs
+D:\Task\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.csproj.CoreCompileInputs.cache
+D:\Task\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.sourcelink.json
+D:\Task\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.dll
+D:\Task\RemoveDuplicates\obj\Debug\net8.0\refint\RemoveDuplicates.dll
+D:\Task\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.pdb
+D:\Task\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.genruntimeconfig.cache
+D:\Task\RemoveDuplicates\obj\Debug\net8.0\ref\RemoveDuplicates.dll

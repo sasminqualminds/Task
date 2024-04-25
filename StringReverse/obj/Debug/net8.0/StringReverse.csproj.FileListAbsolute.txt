@@ -1,0 +1,15 @@
+D:\Task\StringReverse\bin\Debug\net8.0\StringReverse.exe
+D:\Task\StringReverse\bin\Debug\net8.0\StringReverse.deps.json
+D:\Task\StringReverse\bin\Debug\net8.0\StringReverse.runtimeconfig.json
+D:\Task\StringReverse\bin\Debug\net8.0\StringReverse.dll
+D:\Task\StringReverse\bin\Debug\net8.0\StringReverse.pdb
+D:\Task\StringReverse\obj\Debug\net8.0\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\StringReverse\obj\Debug\net8.0\StringReverse.AssemblyInfoInputs.cache
+D:\Task\StringReverse\obj\Debug\net8.0\StringReverse.AssemblyInfo.cs
+D:\Task\StringReverse\obj\Debug\net8.0\StringReverse.csproj.CoreCompileInputs.cache
+D:\Task\StringReverse\obj\Debug\net8.0\StringReverse.sourcelink.json
+D:\Task\StringReverse\obj\Debug\net8.0\StringReverse.dll
+D:\Task\StringReverse\obj\Debug\net8.0\refint\StringReverse.dll
+D:\Task\StringReverse\obj\Debug\net8.0\StringReverse.pdb
+D:\Task\StringReverse\obj\Debug\net8.0\StringReverse.genruntimeconfig.cache
+D:\Task\StringReverse\obj\Debug\net8.0\ref\StringReverse.dll

@@ -1,0 +1,15 @@
+D:\Task\CommonElements\bin\Debug\net8.0\CommonElements.exe
+D:\Task\CommonElements\bin\Debug\net8.0\CommonElements.deps.json
+D:\Task\CommonElements\bin\Debug\net8.0\CommonElements.runtimeconfig.json
+D:\Task\CommonElements\bin\Debug\net8.0\CommonElements.dll
+D:\Task\CommonElements\bin\Debug\net8.0\CommonElements.pdb
+D:\Task\CommonElements\obj\Debug\net8.0\CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\CommonElements\obj\Debug\net8.0\CommonElements.AssemblyInfoInputs.cache
+D:\Task\CommonElements\obj\Debug\net8.0\CommonElements.AssemblyInfo.cs
+D:\Task\CommonElements\obj\Debug\net8.0\CommonElements.csproj.CoreCompileInputs.cache
+D:\Task\CommonElements\obj\Debug\net8.0\CommonElements.sourcelink.json
+D:\Task\CommonElements\obj\Debug\net8.0\CommonElements.dll
+D:\Task\CommonElements\obj\Debug\net8.0\refint\CommonElements.dll
+D:\Task\CommonElements\obj\Debug\net8.0\CommonElements.pdb
+D:\Task\CommonElements\obj\Debug\net8.0\CommonElements.genruntimeconfig.cache
+D:\Task\CommonElements\obj\Debug\net8.0\ref\CommonElements.dll

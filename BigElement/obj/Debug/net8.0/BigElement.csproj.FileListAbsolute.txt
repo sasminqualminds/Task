@@ -1,0 +1,15 @@
+D:\Task\BigElement\bin\Debug\net8.0\BigElement.exe
+D:\Task\BigElement\bin\Debug\net8.0\BigElement.deps.json
+D:\Task\BigElement\bin\Debug\net8.0\BigElement.runtimeconfig.json
+D:\Task\BigElement\bin\Debug\net8.0\BigElement.dll
+D:\Task\BigElement\bin\Debug\net8.0\BigElement.pdb
+D:\Task\BigElement\obj\Debug\net8.0\BigElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\BigElement\obj\Debug\net8.0\BigElement.AssemblyInfoInputs.cache
+D:\Task\BigElement\obj\Debug\net8.0\BigElement.AssemblyInfo.cs
+D:\Task\BigElement\obj\Debug\net8.0\BigElement.csproj.CoreCompileInputs.cache
+D:\Task\BigElement\obj\Debug\net8.0\BigElement.sourcelink.json
+D:\Task\BigElement\obj\Debug\net8.0\BigElement.dll
+D:\Task\BigElement\obj\Debug\net8.0\refint\BigElement.dll
+D:\Task\BigElement\obj\Debug\net8.0\BigElement.pdb
+D:\Task\BigElement\obj\Debug\net8.0\BigElement.genruntimeconfig.cache
+D:\Task\BigElement\obj\Debug\net8.0\ref\BigElement.dll

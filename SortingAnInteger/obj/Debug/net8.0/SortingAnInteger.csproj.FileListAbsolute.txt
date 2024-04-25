@@ -1,0 +1,15 @@
+D:\Task\SortingAnInteger\bin\Debug\net8.0\SortingAnInteger.exe
+D:\Task\SortingAnInteger\bin\Debug\net8.0\SortingAnInteger.deps.json
+D:\Task\SortingAnInteger\bin\Debug\net8.0\SortingAnInteger.runtimeconfig.json
+D:\Task\SortingAnInteger\bin\Debug\net8.0\SortingAnInteger.dll
+D:\Task\SortingAnInteger\bin\Debug\net8.0\SortingAnInteger.pdb
+D:\Task\SortingAnInteger\obj\Debug\net8.0\SortingAnInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\SortingAnInteger\obj\Debug\net8.0\SortingAnInteger.AssemblyInfoInputs.cache
+D:\Task\SortingAnInteger\obj\Debug\net8.0\SortingAnInteger.AssemblyInfo.cs
+D:\Task\SortingAnInteger\obj\Debug\net8.0\SortingAnInteger.csproj.CoreCompileInputs.cache
+D:\Task\SortingAnInteger\obj\Debug\net8.0\SortingAnInteger.sourcelink.json
+D:\Task\SortingAnInteger\obj\Debug\net8.0\SortingAnInteger.dll
+D:\Task\SortingAnInteger\obj\Debug\net8.0\refint\SortingAnInteger.dll
+D:\Task\SortingAnInteger\obj\Debug\net8.0\SortingAnInteger.pdb
+D:\Task\SortingAnInteger\obj\Debug\net8.0\SortingAnInteger.genruntimeconfig.cache
+D:\Task\SortingAnInteger\obj\Debug\net8.0\ref\SortingAnInteger.dll

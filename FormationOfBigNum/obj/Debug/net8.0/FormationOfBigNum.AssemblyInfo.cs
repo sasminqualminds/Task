@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormationOfBigNum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c97ea4aaa218ead4f9022d6023494049c1c49b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fca4c4e0f5e3796a466e6c1e45853e16b5ec9996")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormationOfBigNum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormationOfBigNum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

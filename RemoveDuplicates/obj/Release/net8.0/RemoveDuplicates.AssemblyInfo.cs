@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemoveDuplicates")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32b47d9a6226a02047ecaae429875c037bb59136")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fca4c4e0f5e3796a466e6c1e45853e16b5ec9996")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemoveDuplicates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemoveDuplicates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

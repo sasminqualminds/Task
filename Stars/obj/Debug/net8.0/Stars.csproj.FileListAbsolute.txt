@@ -1,0 +1,15 @@
+D:\Task\Stars\bin\Debug\net8.0\Stars.exe
+D:\Task\Stars\bin\Debug\net8.0\Stars.deps.json
+D:\Task\Stars\bin\Debug\net8.0\Stars.runtimeconfig.json
+D:\Task\Stars\bin\Debug\net8.0\Stars.dll
+D:\Task\Stars\bin\Debug\net8.0\Stars.pdb
+D:\Task\Stars\obj\Debug\net8.0\Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\Stars\obj\Debug\net8.0\Stars.AssemblyInfoInputs.cache
+D:\Task\Stars\obj\Debug\net8.0\Stars.AssemblyInfo.cs
+D:\Task\Stars\obj\Debug\net8.0\Stars.csproj.CoreCompileInputs.cache
+D:\Task\Stars\obj\Debug\net8.0\Stars.sourcelink.json
+D:\Task\Stars\obj\Debug\net8.0\Stars.dll
+D:\Task\Stars\obj\Debug\net8.0\refint\Stars.dll
+D:\Task\Stars\obj\Debug\net8.0\Stars.pdb
+D:\Task\Stars\obj\Debug\net8.0\Stars.genruntimeconfig.cache
+D:\Task\Stars\obj\Debug\net8.0\ref\Stars.dll

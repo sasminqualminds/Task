@@ -9,12 +9,12 @@ namespace StringReverse
         {
             // Asking user to enter a string
             Console.WriteLine("Enter your string");
-            string word=Console.ReadLine();
+            string userInput=Console.ReadLine();
             
             // looping the string from last to first
-            for(int i=word.Length-1;i>=0; i--)
+            for(int i= userInput.Length-1;i>=0; i--)
             {
-                Console.Write(word[i]);
+                Console.Write(userInput[i]);
             }
             Console.ReadKey();
             

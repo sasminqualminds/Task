@@ -23,7 +23,7 @@ namespace NumberReverse
                 while (number != 0)                                 // checking if the number is not equal to 0
                 {
                     int remainder = number % 10;                    // taking the remainder of that number which will be the last digit
-                    reverseNumber = reverseNumber * 10 + remainder;                      // adding that digit to an empty string
+                    reverseNumber = reverseNumber * 10 + remainder; // adding that digit to a integer
                     number = number / 10;                           // dividing the number so that the last digit will be removed
                 }                                                   // checking the condition until the number is not equal to 0
 

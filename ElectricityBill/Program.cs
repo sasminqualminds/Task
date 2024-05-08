@@ -29,11 +29,11 @@ namespace ElectricityBill
             {
                 Console.WriteLine($"Total amount due is : $ {(unitConsumed * 8.20).ToString("0.00")}");
             }
-            else if (unitConsumed > 200 && unitConsumed < 400)
+            else if (unitConsumed >= 200 && unitConsumed < 400)
             {
                 Console.WriteLine($"Total amount due is : $ {(unitConsumed * 10.50).ToString("0.00")}");
             }
-            else if(unitConsumed >400 &&  unitConsumed < 600)
+            else if(unitConsumed >=400 &&  unitConsumed < 600)
             {
                 Console.WriteLine($"Total amount due is : $ {(unitConsumed * 13.80).ToString("0.00")}");
             }

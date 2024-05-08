@@ -1,0 +1,15 @@
+D:\Task\ArithmeticOperationsUsingDelegates\bin\Debug\net8.0\ArithmeticOperationsUsingDelegates.exe
+D:\Task\ArithmeticOperationsUsingDelegates\bin\Debug\net8.0\ArithmeticOperationsUsingDelegates.deps.json
+D:\Task\ArithmeticOperationsUsingDelegates\bin\Debug\net8.0\ArithmeticOperationsUsingDelegates.runtimeconfig.json
+D:\Task\ArithmeticOperationsUsingDelegates\bin\Debug\net8.0\ArithmeticOperationsUsingDelegates.dll
+D:\Task\ArithmeticOperationsUsingDelegates\bin\Debug\net8.0\ArithmeticOperationsUsingDelegates.pdb
+D:\Task\ArithmeticOperationsUsingDelegates\obj\Debug\net8.0\ArithmeticOperationsUsingDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\ArithmeticOperationsUsingDelegates\obj\Debug\net8.0\ArithmeticOperationsUsingDelegates.AssemblyInfoInputs.cache
+D:\Task\ArithmeticOperationsUsingDelegates\obj\Debug\net8.0\ArithmeticOperationsUsingDelegates.AssemblyInfo.cs
+D:\Task\ArithmeticOperationsUsingDelegates\obj\Debug\net8.0\ArithmeticOperationsUsingDelegates.csproj.CoreCompileInputs.cache
+D:\Task\ArithmeticOperationsUsingDelegates\obj\Debug\net8.0\ArithmeticOperationsUsingDelegates.sourcelink.json
+D:\Task\ArithmeticOperationsUsingDelegates\obj\Debug\net8.0\ArithmeticOperationsUsingDelegates.dll
+D:\Task\ArithmeticOperationsUsingDelegates\obj\Debug\net8.0\refint\ArithmeticOperationsUsingDelegates.dll
+D:\Task\ArithmeticOperationsUsingDelegates\obj\Debug\net8.0\ArithmeticOperationsUsingDelegates.pdb
+D:\Task\ArithmeticOperationsUsingDelegates\obj\Debug\net8.0\ArithmeticOperationsUsingDelegates.genruntimeconfig.cache
+D:\Task\ArithmeticOperationsUsingDelegates\obj\Debug\net8.0\ref\ArithmeticOperationsUsingDelegates.dll

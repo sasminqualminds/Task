@@ -1,0 +1,15 @@
+D:\Task\OppositeCase\bin\Debug\net8.0\OppositeCase.exe
+D:\Task\OppositeCase\bin\Debug\net8.0\OppositeCase.deps.json
+D:\Task\OppositeCase\bin\Debug\net8.0\OppositeCase.runtimeconfig.json
+D:\Task\OppositeCase\bin\Debug\net8.0\OppositeCase.dll
+D:\Task\OppositeCase\bin\Debug\net8.0\OppositeCase.pdb
+D:\Task\OppositeCase\obj\Debug\net8.0\OppositeCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\OppositeCase\obj\Debug\net8.0\OppositeCase.AssemblyInfoInputs.cache
+D:\Task\OppositeCase\obj\Debug\net8.0\OppositeCase.AssemblyInfo.cs
+D:\Task\OppositeCase\obj\Debug\net8.0\OppositeCase.csproj.CoreCompileInputs.cache
+D:\Task\OppositeCase\obj\Debug\net8.0\OppositeCase.sourcelink.json
+D:\Task\OppositeCase\obj\Debug\net8.0\OppositeCase.dll
+D:\Task\OppositeCase\obj\Debug\net8.0\refint\OppositeCase.dll
+D:\Task\OppositeCase\obj\Debug\net8.0\OppositeCase.pdb
+D:\Task\OppositeCase\obj\Debug\net8.0\OppositeCase.genruntimeconfig.cache
+D:\Task\OppositeCase\obj\Debug\net8.0\ref\OppositeCase.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Occurrences")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168f39a4a654c12ce63f8e17ccaa7bd5c92c5e94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a63a8e528c82afa2c869f9217bba0973f23f17cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Occurrences")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Occurrences")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

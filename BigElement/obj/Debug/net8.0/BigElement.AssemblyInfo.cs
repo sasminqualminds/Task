@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BigElement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c97ea4aaa218ead4f9022d6023494049c1c49b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d933663ebd994b7bc35f49bd97954e38bf2193d")]
 [assembly: System.Reflection.AssemblyProductAttribute("BigElement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BigElement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

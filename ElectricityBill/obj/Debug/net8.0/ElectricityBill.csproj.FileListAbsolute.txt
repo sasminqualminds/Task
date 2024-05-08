@@ -1,0 +1,15 @@
+D:\Task\ElectricityBill\bin\Debug\net8.0\ElectricityBill.exe
+D:\Task\ElectricityBill\bin\Debug\net8.0\ElectricityBill.deps.json
+D:\Task\ElectricityBill\bin\Debug\net8.0\ElectricityBill.runtimeconfig.json
+D:\Task\ElectricityBill\bin\Debug\net8.0\ElectricityBill.dll
+D:\Task\ElectricityBill\bin\Debug\net8.0\ElectricityBill.pdb
+D:\Task\ElectricityBill\obj\Debug\net8.0\ElectricityBill.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\ElectricityBill\obj\Debug\net8.0\ElectricityBill.AssemblyInfoInputs.cache
+D:\Task\ElectricityBill\obj\Debug\net8.0\ElectricityBill.AssemblyInfo.cs
+D:\Task\ElectricityBill\obj\Debug\net8.0\ElectricityBill.csproj.CoreCompileInputs.cache
+D:\Task\ElectricityBill\obj\Debug\net8.0\ElectricityBill.sourcelink.json
+D:\Task\ElectricityBill\obj\Debug\net8.0\ElectricityBill.dll
+D:\Task\ElectricityBill\obj\Debug\net8.0\refint\ElectricityBill.dll
+D:\Task\ElectricityBill\obj\Debug\net8.0\ElectricityBill.pdb
+D:\Task\ElectricityBill\obj\Debug\net8.0\ElectricityBill.genruntimeconfig.cache
+D:\Task\ElectricityBill\obj\Debug\net8.0\ref\ElectricityBill.dll

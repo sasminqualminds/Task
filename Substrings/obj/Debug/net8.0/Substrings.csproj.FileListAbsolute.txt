@@ -1,0 +1,15 @@
+D:\Task\Substrings\bin\Debug\net8.0\Substrings.exe
+D:\Task\Substrings\bin\Debug\net8.0\Substrings.deps.json
+D:\Task\Substrings\bin\Debug\net8.0\Substrings.runtimeconfig.json
+D:\Task\Substrings\bin\Debug\net8.0\Substrings.dll
+D:\Task\Substrings\bin\Debug\net8.0\Substrings.pdb
+D:\Task\Substrings\obj\Debug\net8.0\Substrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\Substrings\obj\Debug\net8.0\Substrings.AssemblyInfoInputs.cache
+D:\Task\Substrings\obj\Debug\net8.0\Substrings.AssemblyInfo.cs
+D:\Task\Substrings\obj\Debug\net8.0\Substrings.csproj.CoreCompileInputs.cache
+D:\Task\Substrings\obj\Debug\net8.0\Substrings.sourcelink.json
+D:\Task\Substrings\obj\Debug\net8.0\Substrings.dll
+D:\Task\Substrings\obj\Debug\net8.0\refint\Substrings.dll
+D:\Task\Substrings\obj\Debug\net8.0\Substrings.pdb
+D:\Task\Substrings\obj\Debug\net8.0\Substrings.genruntimeconfig.cache
+D:\Task\Substrings\obj\Debug\net8.0\ref\Substrings.dll

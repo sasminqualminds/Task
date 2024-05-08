@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SortingAnInteger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3233ec90db0418fa6df2e2d4d927b1ba798aa0f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c3c798e04f472066f0766fa026ad4dd0e8cdd74")]
 [assembly: System.Reflection.AssemblyProductAttribute("SortingAnInteger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SortingAnInteger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

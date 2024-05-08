@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Task\\StringReverse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Task\\StringReverse\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B492674-0114-4F38-A13B-82E1170E8807}|StringReverse.csproj|d:\\task\\stringreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B492674-0114-4F38-A13B-82E1170E8807}|StringReverse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Task\\StringReverse\\StringReverse.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StringReverse.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{1B492674-0114-4F38-A13B-82E1170E8807}|StringReverse.csproj|d:\\task\\stringreverse\\stringreverse.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1B492674-0114-4F38-A13B-82E1170E8807}|StringReverse.csproj|solutionrelative:stringreverse.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Task\\StringReverse\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B492674-0114-4F38-A13B-82E1170E8807}|StringReverse.csproj|d:\\task\\stringreverse\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B492674-0114-4F38-A13B-82E1170E8807}|StringReverse.csproj|solutionrelative:new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,7 +31,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StringReverse.csproj",
+              "Title": "StringReverse",
               "DocumentMoniker": "D:\\Task\\StringReverse\\StringReverse.csproj",
               "RelativeDocumentMoniker": "StringReverse.csproj",
               "ToolTip": "D:\\Task\\StringReverse\\StringReverse.csproj",
@@ -59,7 +59,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Task\\StringReverse\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T11:48:03.019Z",
               "EditorCaption": ""

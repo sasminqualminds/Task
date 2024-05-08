@@ -1,0 +1,15 @@
+D:\Task\DiamondShape\bin\Debug\net8.0\DiamondShape.exe
+D:\Task\DiamondShape\bin\Debug\net8.0\DiamondShape.deps.json
+D:\Task\DiamondShape\bin\Debug\net8.0\DiamondShape.runtimeconfig.json
+D:\Task\DiamondShape\bin\Debug\net8.0\DiamondShape.dll
+D:\Task\DiamondShape\bin\Debug\net8.0\DiamondShape.pdb
+D:\Task\DiamondShape\obj\Debug\net8.0\DiamondShape.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\DiamondShape\obj\Debug\net8.0\DiamondShape.AssemblyInfoInputs.cache
+D:\Task\DiamondShape\obj\Debug\net8.0\DiamondShape.AssemblyInfo.cs
+D:\Task\DiamondShape\obj\Debug\net8.0\DiamondShape.csproj.CoreCompileInputs.cache
+D:\Task\DiamondShape\obj\Debug\net8.0\DiamondShape.sourcelink.json
+D:\Task\DiamondShape\obj\Debug\net8.0\DiamondShape.dll
+D:\Task\DiamondShape\obj\Debug\net8.0\refint\DiamondShape.dll
+D:\Task\DiamondShape\obj\Debug\net8.0\DiamondShape.pdb
+D:\Task\DiamondShape\obj\Debug\net8.0\DiamondShape.genruntimeconfig.cache
+D:\Task\DiamondShape\obj\Debug\net8.0\ref\DiamondShape.dll

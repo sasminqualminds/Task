@@ -1,0 +1,15 @@
+D:\Task\SingleInheritance\bin\Debug\net8.0\SingleInheritance.exe
+D:\Task\SingleInheritance\bin\Debug\net8.0\SingleInheritance.deps.json
+D:\Task\SingleInheritance\bin\Debug\net8.0\SingleInheritance.runtimeconfig.json
+D:\Task\SingleInheritance\bin\Debug\net8.0\SingleInheritance.dll
+D:\Task\SingleInheritance\bin\Debug\net8.0\SingleInheritance.pdb
+D:\Task\SingleInheritance\obj\Debug\net8.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\SingleInheritance\obj\Debug\net8.0\SingleInheritance.AssemblyInfoInputs.cache
+D:\Task\SingleInheritance\obj\Debug\net8.0\SingleInheritance.AssemblyInfo.cs
+D:\Task\SingleInheritance\obj\Debug\net8.0\SingleInheritance.csproj.CoreCompileInputs.cache
+D:\Task\SingleInheritance\obj\Debug\net8.0\SingleInheritance.sourcelink.json
+D:\Task\SingleInheritance\obj\Debug\net8.0\SingleInheritance.dll
+D:\Task\SingleInheritance\obj\Debug\net8.0\refint\SingleInheritance.dll
+D:\Task\SingleInheritance\obj\Debug\net8.0\SingleInheritance.pdb
+D:\Task\SingleInheritance\obj\Debug\net8.0\SingleInheritance.genruntimeconfig.cache
+D:\Task\SingleInheritance\obj\Debug\net8.0\ref\SingleInheritance.dll

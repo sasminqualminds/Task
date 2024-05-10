@@ -1,0 +1,15 @@
+D:\Task\MultiLevelInheritance\bin\Debug\net8.0\MultiLevelInheritance.exe
+D:\Task\MultiLevelInheritance\bin\Debug\net8.0\MultiLevelInheritance.deps.json
+D:\Task\MultiLevelInheritance\bin\Debug\net8.0\MultiLevelInheritance.runtimeconfig.json
+D:\Task\MultiLevelInheritance\bin\Debug\net8.0\MultiLevelInheritance.dll
+D:\Task\MultiLevelInheritance\bin\Debug\net8.0\MultiLevelInheritance.pdb
+D:\Task\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.AssemblyInfoInputs.cache
+D:\Task\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.AssemblyInfo.cs
+D:\Task\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.csproj.CoreCompileInputs.cache
+D:\Task\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.sourcelink.json
+D:\Task\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.dll
+D:\Task\MultiLevelInheritance\obj\Debug\net8.0\refint\MultiLevelInheritance.dll
+D:\Task\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.pdb
+D:\Task\MultiLevelInheritance\obj\Debug\net8.0\MultiLevelInheritance.genruntimeconfig.cache
+D:\Task\MultiLevelInheritance\obj\Debug\net8.0\ref\MultiLevelInheritance.dll

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Task\\MultiLevelInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17242EC-036C-4C27-81D2-01470BA800F8}|MultiLevelInheritance.csproj|d:\\task\\multilevelinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17242EC-036C-4C27-81D2-01470BA800F8}|MultiLevelInheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17242EC-036C-4C27-81D2-01470BA800F8}|MultiLevelInheritance.csproj|d:\\task\\multilevelinheritance\\additionofthreenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17242EC-036C-4C27-81D2-01470BA800F8}|MultiLevelInheritance.csproj|solutionrelative:additionofthreenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17242EC-036C-4C27-81D2-01470BA800F8}|MultiLevelInheritance.csproj|d:\\task\\multilevelinheritance\\additionoftwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17242EC-036C-4C27-81D2-01470BA800F8}|MultiLevelInheritance.csproj|solutionrelative:additionoftwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17242EC-036C-4C27-81D2-01470BA800F8}|MultiLevelInheritance.csproj|d:\\task\\multilevelinheritance\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17242EC-036C-4C27-81D2-01470BA800F8}|MultiLevelInheritance.csproj|solutionrelative:number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdditionOfThreeNumbers.cs",
+              "DocumentMoniker": "D:\\Task\\MultiLevelInheritance\\AdditionOfThreeNumbers.cs",
+              "RelativeDocumentMoniker": "AdditionOfThreeNumbers.cs",
+              "ToolTip": "D:\\Task\\MultiLevelInheritance\\AdditionOfThreeNumbers.cs",
+              "RelativeToolTip": "AdditionOfThreeNumbers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:21:13.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdditionOfTwoNumbers.cs",
+              "DocumentMoniker": "D:\\Task\\MultiLevelInheritance\\AdditionOfTwoNumbers.cs",
+              "RelativeDocumentMoniker": "AdditionOfTwoNumbers.cs",
+              "ToolTip": "D:\\Task\\MultiLevelInheritance\\AdditionOfTwoNumbers.cs",
+              "RelativeToolTip": "AdditionOfTwoNumbers.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:12:14.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Number.cs",
+              "DocumentMoniker": "D:\\Task\\MultiLevelInheritance\\Number.cs",
+              "RelativeDocumentMoniker": "Number.cs",
+              "ToolTip": "D:\\Task\\MultiLevelInheritance\\Number.cs",
+              "RelativeToolTip": "Number.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:11:04.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Task\\MultiLevelInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Task\\MultiLevelInheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:03:21.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

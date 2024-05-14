@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Task\\HierarchicalInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB247BD-5FEF-46DC-BACB-C3CAE843925B}|HierarchicalInheritance.csproj|d:\\task\\hierarchicalinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB247BD-5FEF-46DC-BACB-C3CAE843925B}|HierarchicalInheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB247BD-5FEF-46DC-BACB-C3CAE843925B}|HierarchicalInheritance.csproj|d:\\task\\hierarchicalinheritance\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB247BD-5FEF-46DC-BACB-C3CAE843925B}|HierarchicalInheritance.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB247BD-5FEF-46DC-BACB-C3CAE843925B}|HierarchicalInheritance.csproj|d:\\task\\hierarchicalinheritance\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB247BD-5FEF-46DC-BACB-C3CAE843925B}|HierarchicalInheritance.csproj|solutionrelative:square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB247BD-5FEF-46DC-BACB-C3CAE843925B}|HierarchicalInheritance.csproj|d:\\task\\hierarchicalinheritance\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB247BD-5FEF-46DC-BACB-C3CAE843925B}|HierarchicalInheritance.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Task\\HierarchicalInheritance\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "D:\\Task\\HierarchicalInheritance\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:04:00.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\Task\\HierarchicalInheritance\\Square.cs",
+              "RelativeDocumentMoniker": "Square.cs",
+              "ToolTip": "D:\\Task\\HierarchicalInheritance\\Square.cs",
+              "RelativeToolTip": "Square.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T11:00:11.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\Task\\HierarchicalInheritance\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "D:\\Task\\HierarchicalInheritance\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:57:02.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Task\\HierarchicalInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Task\\HierarchicalInheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:56:31.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

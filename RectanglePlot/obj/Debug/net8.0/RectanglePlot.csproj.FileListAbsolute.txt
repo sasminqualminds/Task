@@ -1,0 +1,15 @@
+D:\Task\RectanglePlot\bin\Debug\net8.0\RectanglePlot.exe
+D:\Task\RectanglePlot\bin\Debug\net8.0\RectanglePlot.deps.json
+D:\Task\RectanglePlot\bin\Debug\net8.0\RectanglePlot.runtimeconfig.json
+D:\Task\RectanglePlot\bin\Debug\net8.0\RectanglePlot.dll
+D:\Task\RectanglePlot\bin\Debug\net8.0\RectanglePlot.pdb
+D:\Task\RectanglePlot\obj\Debug\net8.0\RectanglePlot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\RectanglePlot\obj\Debug\net8.0\RectanglePlot.AssemblyInfoInputs.cache
+D:\Task\RectanglePlot\obj\Debug\net8.0\RectanglePlot.AssemblyInfo.cs
+D:\Task\RectanglePlot\obj\Debug\net8.0\RectanglePlot.csproj.CoreCompileInputs.cache
+D:\Task\RectanglePlot\obj\Debug\net8.0\RectanglePlot.sourcelink.json
+D:\Task\RectanglePlot\obj\Debug\net8.0\RectanglePlot.dll
+D:\Task\RectanglePlot\obj\Debug\net8.0\refint\RectanglePlot.dll
+D:\Task\RectanglePlot\obj\Debug\net8.0\RectanglePlot.pdb
+D:\Task\RectanglePlot\obj\Debug\net8.0\RectanglePlot.genruntimeconfig.cache
+D:\Task\RectanglePlot\obj\Debug\net8.0\ref\RectanglePlot.dll

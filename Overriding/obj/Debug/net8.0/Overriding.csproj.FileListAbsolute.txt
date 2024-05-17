@@ -1,0 +1,15 @@
+D:\Task\Overriding\bin\Debug\net8.0\Overriding.exe
+D:\Task\Overriding\bin\Debug\net8.0\Overriding.deps.json
+D:\Task\Overriding\bin\Debug\net8.0\Overriding.runtimeconfig.json
+D:\Task\Overriding\bin\Debug\net8.0\Overriding.dll
+D:\Task\Overriding\bin\Debug\net8.0\Overriding.pdb
+D:\Task\Overriding\obj\Debug\net8.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfoInputs.cache
+D:\Task\Overriding\obj\Debug\net8.0\Overriding.AssemblyInfo.cs
+D:\Task\Overriding\obj\Debug\net8.0\Overriding.csproj.CoreCompileInputs.cache
+D:\Task\Overriding\obj\Debug\net8.0\Overriding.sourcelink.json
+D:\Task\Overriding\obj\Debug\net8.0\Overriding.dll
+D:\Task\Overriding\obj\Debug\net8.0\refint\Overriding.dll
+D:\Task\Overriding\obj\Debug\net8.0\Overriding.pdb
+D:\Task\Overriding\obj\Debug\net8.0\Overriding.genruntimeconfig.cache
+D:\Task\Overriding\obj\Debug\net8.0\ref\Overriding.dll

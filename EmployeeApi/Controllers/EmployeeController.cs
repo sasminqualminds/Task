@@ -1,4 +1,5 @@
-﻿using EmployeeApi.Data;
+﻿using EmployeeApi.Contracts;
+using EmployeeApi.Data;
 using EmployeeApi.Model;
 using EmployeeApi.Services;
 using Microsoft.AspNetCore.Http;
@@ -10,9 +11,9 @@ namespace EmployeeApi.Controllers
     [ApiController]
     public class EmployeeController : ControllerBase
     {
-        private readonly EmployeeService _employeeService;
+        private readonly IEmployeeService _employeeService;
 
-        public EmployeeController(EmployeeService employeeService)
+        public EmployeeController(IEmployeeService employeeService)
         {
             _employeeService = employeeService;
         }
@@ -41,12 +42,11 @@ namespace EmployeeApi.Controllers
             var result = _employeeService.AddEmployee(employee);
             if (result == null)
             {
-                return BadRequest("Enter details in correct format. Phone number must be a 10-digit numeric value.");
+                return BadRequest("Enter details in correct format. Phone number must be a 10-digit numeric value");
             }
             else
             {
                 return Ok("Employee added successfully");
-
             }
         }
 
@@ -66,7 +66,6 @@ namespace EmployeeApi.Controllers
             {
                 return Ok(result);
             }
-
         }
 
         [HttpDelete("/deleteEmployee/{id}")]
@@ -81,3 +80,4 @@ namespace EmployeeApi.Controllers
         }
     }
 }
+

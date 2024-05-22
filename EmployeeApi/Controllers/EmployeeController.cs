@@ -1,5 +1,6 @@
 ﻿using EmployeeApi.Data;
 using EmployeeApi.Model;
+using EmployeeApi.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,80 +10,74 @@ namespace EmployeeApi.Controllers
     [ApiController]
     public class EmployeeController : ControllerBase
     {
-        EmployeeContext _context;
-        public EmployeeController(EmployeeContext context) { 
-            _context = context;
+        private readonly EmployeeService _employeeService;
+
+        public EmployeeController(EmployeeService employeeService)
+        {
+            _employeeService = employeeService;
         }
 
-        // Get request to get all employees
-        [HttpGet]
-        public List<Employee> GetAllEmployees()
+        [HttpGet("/allEmployees")]
+        public IActionResult GetAllEmployees()
         {
-            return _context.Employees.ToList();
+            var employees = _employeeService.GetEmployees();
+            return Ok(employees);
         }
 
-        // Get request to get an single employee data by employeeId
-        [HttpGet("{id}")]
-        public Employee GetEmployeeById(int id)
+        [HttpGet("/employee/{id}")]
+        public IActionResult GetEmployeeById(int id)
         {
-            var employee = _context.Employees.Find(id);
-            if(employee == null)
-            {
-                return null;
-            }
-            else
-            {
-                return employee;
-            }
-        }
-
-
-        // Post request to Add an employee record
-        [HttpPost]
-        public string AddEmployee(Employee employee)
-        {
-            _context.Employees.Add(employee);
-            _context.SaveChanges();
-            return "Employee added";
-        }
-
-        // Put request to update an employee record by Id
-        [HttpPut]
-        public string UpdateEmployee(int id,Employee employee)
-        {
-            var _employee = _context.Employees.Find(id);
-            if (_employee == null)
-            {
-                return $"EMployee with {id} not found";
-            }
-            else
-            {
-                _employee.FirstName = employee.FirstName;
-                _employee.LastName = employee.LastName;
-                _employee.Salary= employee.Salary;
-                _employee.PhoneNumber = employee.PhoneNumber;
-                _employee.DepartmentName = employee.DepartmentName;
-                _context.SaveChanges();
-                return $"EMployee with {id} updated";
-            }
-        }
-
-        // Delete request to delete an employee record
-        [HttpDelete]
-        public string DeleteEmployee(int id)
-        {
-
-            var employee = _context.Employees.Find(id);
+            var employee = _employeeService.GetById(id);
             if (employee == null)
             {
-                return $"EMployee with {id} not found";
+                return NotFound($"Employee with ID {id} not found");
+            }
+            return Ok(employee);
+        }
+
+        [HttpPost("/addEmployee")]
+        public IActionResult AddNewEmployee(Employee employee)
+        {
+            var result = _employeeService.AddEmployee(employee);
+            if (result == null)
+            {
+                return BadRequest("Enter details in correct format. Phone number must be a 10-digit numeric value.");
             }
             else
             {
-                _context.Employees.Remove(employee);
-                _context.SaveChanges();
-                return $"EMployee with {id} deleted";
+                return Ok("Employee added successfully");
+
             }
+        }
+
+        [HttpPut("/updateEmployee/{id}")]
+        public IActionResult UpdateEmployee(int id, Employee employee)
+        {
+            var result = _employeeService.UpdateEmployeeById(id, employee);
+            if (result == null)
+            {
+                return NotFound($"Employee with ID {id} not found");
+            }
+            else if (result == "enter details in correct format")
+            {
+                return BadRequest("Enter details in correct format. Phone number must be a 10-digit numeric value.");
+            }
+            else
+            {
+                return Ok(result);
+            }
+
+        }
+
+        [HttpDelete("/deleteEmployee/{id}")]
+        public IActionResult DeleteEmployee(int id)
+        {
+            var result = _employeeService.DeleteEmployeeById(id);
+            if (result == null)
+            {
+                return NotFound($"Employee with ID {id} not found");
+            }
+            return Ok(result);
         }
     }
 }

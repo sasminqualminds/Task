@@ -6,7 +6,7 @@ namespace EmployeeApi.Contracts
     {
         List<Employee> GetEmployees();
         Employee GetById(int id);
-        Employee AddEmployee(Employee employee);
+        string AddEmployee(Employee employee);
         string UpdateEmployeeById(int id, Employee employee);
         string DeleteEmployeeById(int id);
     }

@@ -1,11 +1,14 @@
-﻿using EmployeeApi.Data;
+﻿using EmployeeApi.Contracts;
+using EmployeeApi.Data;
 using EmployeeApi.Model;
+using System.Globalization;
 
 namespace EmployeeApi.Services
 {
-    public class EmployeeService
+    public class EmployeeService:IEmployeeService
     {
         EmployeeContext _context;
+        TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
         public EmployeeService(EmployeeContext context)
         {
             _context = context;
@@ -24,10 +27,11 @@ namespace EmployeeApi.Services
 
         public Employee AddEmployee(Employee employee)
         {
-            if (int.TryParse(employee.PhoneNumber, out int phoneNumber) && employee.PhoneNumber.Length == 10)
-            {
-                employee.FirstName = char.ToUpper(employee.FirstName[0]) + employee.FirstName.Substring(1);
-                employee.LastName = char.ToUpper(employee.LastName[0]) + employee.LastName.Substring(1);
+            
+            if (employee.PhoneNumber.All(char.IsDigit) && employee.PhoneNumber.Length == 10)
+            {                
+                employee.FirstName = textInfo.ToTitleCase(employee.FirstName);
+                employee.LastName = textInfo.ToTitleCase(employee.LastName);                
                 _context.Employees.Add(employee);
                 _context.SaveChanges();
                 return employee;
@@ -43,10 +47,10 @@ namespace EmployeeApi.Services
             var currentEmployee = _context.Employees.Find(id);
             if (currentEmployee != null)
             {
-                if (int.TryParse(employee.PhoneNumber, out int phoneNumber) && employee.PhoneNumber.Length == 10)
+                if (employee.PhoneNumber.All(char.IsDigit) && employee.PhoneNumber.Length == 10)
                 {
-                    currentEmployee.FirstName = char.ToUpper(employee.FirstName[0]) + employee.FirstName.Substring(1);
-                    currentEmployee.LastName = char.ToUpper(employee.LastName[0]) + employee.LastName.Substring(1);
+                    currentEmployee.FirstName = textInfo.ToTitleCase(employee.FirstName);
+                    currentEmployee.LastName = textInfo.ToTitleCase(employee.LastName);
                     currentEmployee.Salary = employee.Salary;
                     currentEmployee.DepartmentName = employee.DepartmentName;
                     currentEmployee.PhoneNumber = employee.PhoneNumber;
@@ -64,7 +68,6 @@ namespace EmployeeApi.Services
             {
                 return null;
             }
-
         }
 
         public string DeleteEmployeeById(int id)
@@ -80,7 +83,6 @@ namespace EmployeeApi.Services
             {
                 return null;
             }
-
-        }
+        }       
     }
 }

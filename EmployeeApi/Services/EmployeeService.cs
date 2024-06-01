@@ -25,7 +25,7 @@ namespace EmployeeApi.Services
             return employee;
         }
 
-        public Employee AddEmployee(Employee employee)
+        public string AddEmployee(Employee employee)
         {
             
             if (employee.PhoneNumber.All(char.IsDigit) && employee.PhoneNumber.Length == 10)
@@ -34,11 +34,11 @@ namespace EmployeeApi.Services
                 employee.LastName = textInfo.ToTitleCase(employee.LastName);                
                 _context.Employees.Add(employee);
                 _context.SaveChanges();
-                return employee;
+                return "Employee added successfully";
             }
             else
             {
-                return null;
+                return "Enter details in correct format. Phone number must be a 10-digit numeric value";
             }
         }
 
@@ -66,7 +66,7 @@ namespace EmployeeApi.Services
             }
             else
             {
-                return null;
+                return $"Employee with ID {id} not found";
             }
         }
 
@@ -77,11 +77,11 @@ namespace EmployeeApi.Services
             {
                 _context.Remove(currentEmployee);
                 _context.SaveChanges();
-                return $"Employee with {id} deleted sucessfully";
+                return $"Employee with id {id} deleted sucessfully";
             }
             else
             {
-                return null;
+                return $"Employee with id {id} not found";
             }
         }       
     }

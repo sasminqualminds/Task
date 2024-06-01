@@ -39,43 +39,21 @@ namespace EmployeeApi.Controllers
         [HttpPost("/addEmployee")]
         public IActionResult AddNewEmployee(Employee employee)
         {
-            var result = _employeeService.AddEmployee(employee);
-            if (result == null)
-            {
-                return BadRequest("Enter details in correct format. Phone number must be a 10-digit numeric value");
-            }
-            else
-            {
-                return Ok("Employee added successfully");
-            }
+            var result = _employeeService.AddEmployee(employee);                     
+             return Ok(result);            
         }
 
         [HttpPut("/updateEmployee/{id}")]
         public IActionResult UpdateEmployee(int id, Employee employee)
         {
-            var result = _employeeService.UpdateEmployeeById(id, employee);
-            if (result == null)
-            {
-                return NotFound($"Employee with ID {id} not found");
-            }
-            else if (result == "enter details in correct format")
-            {
-                return BadRequest("Enter details in correct format. Phone number must be a 10-digit numeric value.");
-            }
-            else
-            {
-                return Ok(result);
-            }
+            var result = _employeeService.UpdateEmployeeById(id, employee);           
+                return Ok(result);           
         }
 
         [HttpDelete("/deleteEmployee/{id}")]
         public IActionResult DeleteEmployee(int id)
         {
-            var result = _employeeService.DeleteEmployeeById(id);
-            if (result == null)
-            {
-                return NotFound($"Employee with ID {id} not found");
-            }
+            var result = _employeeService.DeleteEmployeeById(id);            
             return Ok(result);
         }
     }

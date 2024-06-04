@@ -1,0 +1,623 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Task\\New folder\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\models\\employeemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:models\\employeemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\dtos\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\controllers\\leavestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\leavestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\controllers\\leavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\leavescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\controllers\\leavebalancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\leavebalancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\dtos\\leavestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\leavestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\dtos\\leavesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\leavesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\services\\leavebalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:services\\leavebalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\services\\leavesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:services\\leavesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\dtos\\leavebalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\leavebalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\models\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:models\\leavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\interfaces\\iattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:interfaces\\iattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\interfaces\\ileaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:interfaces\\ileaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\interfaces\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:interfaces\\idepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\interfaces\\ileaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:interfaces\\ileaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\interfaces\\ileavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:interfaces\\ileavebalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\interfaces\\ileavestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:interfaces\\ileavestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\interfaces\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:interfaces\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\services\\leaveapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:services\\leaveapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\dtos\\leaveapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\leaveapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\models\\leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:models\\leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\services\\leavestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:services\\leavestatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\models\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:models\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|d:\\task\\new folder\\employeemanagementsystem\\models\\leavestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA280D83-6C32-495F-BFAE-B30FB756B9C9}|EmployeeManagementSystem.csproj|solutionrelative:models\\leavestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeavesController.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\LeavesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeavesController.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\LeavesController.cs",
+              "RelativeToolTip": "Controllers\\LeavesController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:47:11.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveStatusController.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\LeaveStatusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveStatusController.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\LeaveStatusController.cs",
+              "RelativeToolTip": "Controllers\\LeaveStatusController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowD0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:47:11.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:59:00.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "Services\\AttendanceService.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "Services\\AttendanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:08:04.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeManagementDbContext.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\EmployeeManagementDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeManagementDbContext.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\EmployeeManagementDbContext.cs",
+              "RelativeToolTip": "Models\\EmployeeManagementDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:02:05.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T15:47:11.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "Models\\Attendance.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\Attendance.cs",
+              "RelativeToolTip": "Models\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:54:56.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Controllers\\AttendanceController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:15:16.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:47:37.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttendanceDTO.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\AttendanceDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\AttendanceDTO.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\AttendanceDTO.cs",
+              "RelativeToolTip": "DTOs\\AttendanceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:54:27.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeaveBalanceController.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\LeaveBalanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveBalanceController.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\LeaveBalanceController.cs",
+              "RelativeToolTip": "Controllers\\LeaveBalanceController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwD8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:37:59.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaveStatusDTO.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\LeaveStatusDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeaveStatusDTO.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\LeaveStatusDTO.cs",
+              "RelativeToolTip": "DTOs\\LeaveStatusDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:15:47.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeavesDTO.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\LeavesDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeavesDTO.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\LeavesDTO.cs",
+              "RelativeToolTip": "DTOs\\LeavesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:32:35.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:46:51.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeaveBalanceService.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\LeaveBalanceService.cs",
+              "RelativeDocumentMoniker": "Services\\LeaveBalanceService.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\LeaveBalanceService.cs",
+              "RelativeToolTip": "Services\\LeaveBalanceService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:29:44.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LeaveBalanceDTO.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\LeaveBalanceDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeaveBalanceDTO.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\LeaveBalanceDTO.cs",
+              "RelativeToolTip": "DTOs\\LeaveBalanceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:17:09.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LeaveBalance.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\LeaveBalance.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveBalance.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\LeaveBalance.cs",
+              "RelativeToolTip": "Models\\LeaveBalance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:17:25.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowD8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:22:52.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAttendance.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\IAttendance.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAttendance.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\IAttendance.cs",
+              "RelativeToolTip": "Interfaces\\IAttendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:55:27.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Services\\DepartmentService.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Services\\DepartmentService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwEsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:13:55.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeavesService.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\LeavesService.cs",
+              "RelativeDocumentMoniker": "Services\\LeavesService.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\LeavesService.cs",
+              "RelativeToolTip": "Services\\LeavesService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:35:51.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDepartment.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\IDepartment.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDepartment.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\IDepartment.cs",
+              "RelativeToolTip": "Interfaces\\IDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:13:10.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILeaves.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\ILeaves.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILeaves.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\ILeaves.cs",
+              "RelativeToolTip": "Interfaces\\ILeaves.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:33:04.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "Services\\RoleService.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\RoleService.cs",
+              "RelativeToolTip": "Services\\RoleService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwEcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:00:55.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ILeaveStatus.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\ILeaveStatus.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILeaveStatus.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\ILeaveStatus.cs",
+              "RelativeToolTip": "Interfaces\\ILeaveStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:16:30.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\RoleDTO.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\RoleDTO.cs",
+              "RelativeToolTip": "DTOs\\RoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:00:50.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ILeaveApplication.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\ILeaveApplication.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILeaveApplication.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\ILeaveApplication.cs",
+              "RelativeToolTip": "Interfaces\\ILeaveApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:29:16.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LeaveApplicationService.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\LeaveApplicationService.cs",
+              "RelativeDocumentMoniker": "Services\\LeaveApplicationService.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\LeaveApplicationService.cs",
+              "RelativeToolTip": "Services\\LeaveApplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:30:40.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRole.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\IRole.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRole.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\IRole.cs",
+              "RelativeToolTip": "Interfaces\\IRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:37:25.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\IEmployee.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmployee.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\IEmployee.cs",
+              "RelativeToolTip": "Interfaces\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:38:48.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ILeaveBalance.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\ILeaveBalance.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILeaveBalance.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Interfaces\\ILeaveBalance.cs",
+              "RelativeToolTip": "Interfaces\\ILeaveBalance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:16:51.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LeaveApplicationDTO.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\LeaveApplicationDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeaveApplicationDTO.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\LeaveApplicationDTO.cs",
+              "RelativeToolTip": "DTOs\\LeaveApplicationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:28:06.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LeaveApplication.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\LeaveApplication.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveApplication.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\LeaveApplication.cs",
+              "RelativeToolTip": "Models\\LeaveApplication.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:28:14.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\DepartmentDTO.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "DTOs\\DepartmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:13:05.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LeaveStatusService.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\LeaveStatusService.cs",
+              "RelativeDocumentMoniker": "Services\\LeaveStatusService.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Services\\LeaveStatusService.cs",
+              "RelativeToolTip": "Services\\LeaveStatusService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:18:56.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Leaf.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\Leaf.cs",
+              "RelativeDocumentMoniker": "Models\\Leaf.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\Leaf.cs",
+              "RelativeToolTip": "Models\\Leaf.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:12:52.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LeaveStatus.cs",
+              "DocumentMoniker": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\LeaveStatus.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveStatus.cs",
+              "ToolTip": "D:\\Task\\New folder\\EmployeeManagementSystem\\Models\\LeaveStatus.cs",
+              "RelativeToolTip": "Models\\LeaveStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:12:56.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
